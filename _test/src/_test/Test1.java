@@ -3,6 +3,9 @@ package _test;
 public class Test1 {
 
 	public static void main(String[] args) {
-		String a ="aaa";
+
+		String s ="aaa";
+		int a = 123;
+
 	}
 }
